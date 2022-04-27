@@ -1,0 +1,54 @@
+
+
+body{
+    text-align:center;
+}
+.line1{
+background:linear-gradient(to top right,rgb(3, 249, 3),orange);
+}
+.line{
+    background-color:black;
+    width:300px;
+    height: 10px;
+    margin:50px auto;
+}
+span{
+    display:inline-block;
+}
+#alaska_img{
+    height:220px;
+    width:450px;
+    margin-bottom:5.3%;
+}
+#hawaii_img{
+    height:220px;
+    width:450px;
+}
+p{
+    width:350px;
+    text-align:center;
+}
+.i1{
+    margin-left:100px;
+}
+#perry{
+width:500px;
+height:400px;
+margin-top:50px;    
+}
+.rating{
+    margin-left:3%;
+}
+#phaf{
+    margin-left:39%;
+    background:linear-gradient(to top,blue,white)
+}
+#harrypotter{
+    margin-top:100px;
+}
+#hp{
+  height:200px;  
+}
+#bigbox{
+    background:linear-gradient(orange,black)
+}
